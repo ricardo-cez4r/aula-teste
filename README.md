@@ -1,2 +1,2 @@
 # aula-teste
-repositório teste
+Descrição da aula teste
